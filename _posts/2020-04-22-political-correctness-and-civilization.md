@@ -2,7 +2,7 @@
 layout: post
 title:  "政治正确与文明"
 author: richard
-categories: [ Reading ]
+categories: [ Reading, test ]
 image: assets/images/2.jpg
 ---
 
